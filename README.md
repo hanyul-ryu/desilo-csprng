@@ -18,20 +18,17 @@ To pre-compile the cuda extention, install the our python packages using `python
     python setup.py install
     ```
     
-    
 2. randint
     ```powershell
     cd randint
     python setup.py install
     ```
     
-    
 3. discrete_gaussian
     ```powershell
     cd discrete_gaussian
     python setup.py install
     ```
-    
     
 4. chacha20
     ```powershell
@@ -95,7 +92,7 @@ plt.show()
 print(series.min(), series.mean(), series.max())
 ```
 
-![discrete gaussian](/Users/hanyul/Dropbox/00. Desilo/WORK/lPrimCKKS/rng/images/discrete_gaussian.png)
+![discrete gaussian](https://github.com/hanyul-ryu/desilo-csprng/blob/main/images/discrete_gaussian.png?raw=true)
 
 
 
